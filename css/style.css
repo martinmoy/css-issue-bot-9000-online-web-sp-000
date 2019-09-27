@@ -14,7 +14,7 @@ h2 {
 }
 
 .completed {
-  font-family: cursive;12px;
+  font-family: cursive;;
 }
 
 #tasks .completed {
